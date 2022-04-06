@@ -1,4 +1,4 @@
-# Hi There ! *Shaking_Hands*
+# Molo, Dumela, Hello!
 
 I am Thandazile from South Africa and i love design and Development.
 
