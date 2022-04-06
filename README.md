@@ -1,6 +1,6 @@
 # Molo, Dumela, Sawubona, Hello!
 
-I am Thandazile from South Africa and I have a great affinity for Design and Development. And I am fascinated by multimedia and the avenues presented by the various technologies that make up multimedia such as the web and games.
+I am Thandazile from South Africa and I have a great affinity for Design and Development. And I am fascinated by multimedia and the avenues presented by the various technologies that make up multimedia such as the Web and Games.
 
 ## Skills and Tools:
 
