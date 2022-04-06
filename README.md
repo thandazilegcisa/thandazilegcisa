@@ -1,4 +1,4 @@
-# Molo, Dumela, Saubona, Hello!
+# Molo, Dumela, Sawubona, Hello!
 
 I am Thandazile from South Africa and I have a great affinity for Design and Development.
 
