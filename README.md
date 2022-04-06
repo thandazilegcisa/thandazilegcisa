@@ -1,6 +1,6 @@
 # Molo, Dumela, Sawubona, Hello!
 
-I am Thandazile from South Africa and I have a great affinity for Design and Development.
+I am Thandazile from South Africa and I have a great affinity for Design and Development. And I am fascinated by multimedia and the avenues presented by the various technologies that make up multimedia such as the web and games.
 
 ## Skills and Tools:
 
@@ -35,4 +35,3 @@ I am Thandazile from South Africa and I have a great affinity for Design and Dev
 [website]: https://thandazilegcisa.co.za
 [linkedin]: https://www.linkedin.com/in/thandazile-gcisa-b14546233/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thandazilegcisa)](https://github.com/anuraghazra/github-readme-stats)
