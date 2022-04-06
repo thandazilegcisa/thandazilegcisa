@@ -1,4 +1,4 @@
-### Hi There ! *Shaking_Hands*
+# Hi There ! *Shaking_Hands*
 
 I am Thandazile from South Africa and i love design and Development.
 
