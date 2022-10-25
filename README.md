@@ -22,14 +22,6 @@ My name is Thandazile, and I have a great affinity for Design and Development. I
 
 <br/>
 
-### Games and Media I enjoy:
-
-- Basically any FromSoftware Souls Game.
-- Comics
-- Anime
-
-<br/>
-
 [website]: https://thandazilegcisa.co.za
 [linkedin]: https://www.linkedin.com/in/thandazile-gcisa-b14546233/
 
